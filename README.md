@@ -47,3 +47,14 @@ To set up and run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   Copy code
+
+2. **Open index.html in your browser:**
+   ```bash
+open index.html
+   
+
+
